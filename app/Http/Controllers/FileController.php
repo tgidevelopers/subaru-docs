@@ -30,4 +30,6 @@ class FileController extends Controller
         //$path=Storage::disk('local')->put("doc/report.json", json_encode($fileReport));
         return view('files', ['directories'=>$fileReport, 'files'=>$files]);
     }
+
+
 }
