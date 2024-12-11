@@ -1,4 +1,4 @@
-< ?php
+<?php
 // To Run the Python program 
 $command = escapeshellcmd('python3 /home/ec2-user/script/.main.py');
 
