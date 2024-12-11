@@ -7,4 +7,4 @@ $output = shell_exec($command);
 
 // Display the output
 echo $output;
-? >
+?>
